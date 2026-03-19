@@ -2,7 +2,7 @@
 
 Generate Open Graph and Twitter Card meta tags with a live social share preview, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/seo-tools/og-generator
+**Live Demo:** https://file-converter-free.com/en/seo-tools/og-generator-online
 
 ## How It Works
 
